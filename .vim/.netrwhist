@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/nickweingartner/Desktop/vim-play'
+let g:netrw_dirhist_2='/Users/nickweingartner/Desktop'
+let g:netrw_dirhist_3='/Users/nickweingartner/Desktop/vim-play'
+let g:netrw_dirhist_4='/Users/nickweingartner/git-projects/gt-ui'
+let g:netrw_dirhist_5='/Users/nickweingartner/git-projects/indium-fun'
+let g:netrw_dirhist_6='/Users/nickweingartner/Desktop/vim-play'
+let g:netrw_dirhist_7='/Users/nickweingartner/git-projects/gt-ui'
